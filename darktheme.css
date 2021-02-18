@@ -1,5 +1,5 @@
 :root {
-    --backgroundGreyColor: #1e1e1e;
+    --backgroundGreyColor: #000000;
     --tableGreyRow: #2e2e2e;
     --whiteTextColor: rgb(200, 200, 200);
     --inputBoxBackgroundBorderColor: #383838;
@@ -93,7 +93,7 @@ img[src$="/ok-16x16.png"] {
 
 /* codeforces uses code.prettyprint element but desert.css looks for pre.prettyprint */
 pre {
-    background-color: #333 !important;
+    background-color: #111 !important;
 }
 
 /* in the test display for hacks like this one
