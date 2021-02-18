@@ -1,6 +1,6 @@
 :root {
     --backgroundGreyColor: #000000;
-    --tableGreyRow: #2e2e2e;
+    --tableGreyRow: #111111;
     --whiteTextColor: rgb(200, 200, 200);
     --inputBoxBackgroundBorderColor: #383838;
     /* ever so slightly pinkish but does the job well.
