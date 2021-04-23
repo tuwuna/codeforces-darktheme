@@ -75,9 +75,9 @@ a {
 /* if the image is transparent, it adds a white background to it to avoid messing
 up its colors with the black background
 only for logo headers in gyms, etc. */
-#header > div:first-child img, ._logo_div img, .sidebox img[alt="Logo"] {
+/* #header > div:first-child img, ._logo_div img, .sidebox img[alt="Logo"] {
     background-color: white !important;
-}
+} */
 
 /* all codeforces system hosted images already
 look good on the dark background, so revert them back
