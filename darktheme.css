@@ -41,7 +41,7 @@ body,
 }
 
 div.ttypography .bordertable thead th:not(:last-child) {
-    border-right-color: #000;
+    border-right-color: #fff;
 }
 
 .search,
