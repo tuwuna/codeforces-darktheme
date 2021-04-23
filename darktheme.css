@@ -1,6 +1,6 @@
 :root {
     --backgroundGreyColor: #000000;
-    --tableGreyRow: #222222;
+    --tableGreyRow: #111111;
     --whiteTextColor: rgb(200, 200, 200);
     --inputBoxBackgroundBorderColor: #383838;
     /* ever so slightly pinkish but does the job well.
@@ -59,7 +59,7 @@ td.dark,
 td.dark div.dark,
 .ttypography tbody tr:hover td,
 .status-frame-datatable tr td.dark {
-    background-color: #111111 !important;
+    background-color: var(--tableGreyRow) !important;
 }
 
 div.ttypography tbody tr:hover th {
