@@ -59,7 +59,7 @@ td.dark,
 td.dark div.dark,
 .ttypography tbody tr:hover td,
 .status-frame-datatable tr td.dark {
-    background-color: var(--tableGreyRow) !important;
+    background-color: #111111 !important;
 }
 
 div.ttypography tbody tr:hover th {
